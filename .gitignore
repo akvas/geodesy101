@@ -1,0 +1,12 @@
+data/**
+ITSG-Grace2018_n96_2008-05.gfc
+grid_diff.png
+grid_diff_filtered.png
+grid_grace_filtered.png
+grid_model.png
+gsfc.glb_.200204_202112_rl06v2.0_obp-ice6gd.h5
+l2_solution.png
+l2_solution_DDK3.png
+l2_solution_Gauss_300km.png
+l2_solution_unfiltered.png
+mascon_solution.png

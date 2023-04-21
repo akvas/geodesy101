@@ -12,8 +12,8 @@ conda install numpy scipy cartopy netcdf4 numpydoc sphinx pyyaml h5py
 ```
 Clone the repository and install the included module:
 ```
-git clone https://github.com/akvas/geodesy101.git
-cd grates
+git clone --recurse-submodules https://github.com/akvas/geodesy101.git
+cd geodesy101/grates
 python -m pip install .
 cd ..
 ```
